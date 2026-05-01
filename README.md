@@ -6,7 +6,7 @@ I’m an experienced technical communicator with a background in information lit
 
 I work as a Technical Writer for LaunchDarkly, using docs-as-code to produce internal and client-facing documentation for SaaS products, including implementation guides, API documentation, technical blog posts, SDK documentation, and more.
 
-To read some examples of my work, view my portfolio.
+To read some examples of my work, view my [portfolio](portfolio.md).
 
 I also speak at software development conferences and to other industry professionals about how to write technical documentation. To watch some of my presentations and interviews, see my media page.
 
